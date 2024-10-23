@@ -39,7 +39,7 @@ Contains test bot scripts for various LLM models. These can be used as templates
 - `crplus_test_bot.py`: Example test bot for a specific LLM model (CR Plus)
 - `gpt35_test_bot.py`: Example test bot for GPT-3.5 model
 - `llama_test_bot.py`: Example test bot for the Llama model
-- `test_bot.py`: General test bot template that can be adapted for other models
+- `test_bot.py`: General test bot that is based on 4o
 
 #### prompthack_suite/
 Core suite containing the main testing scripts and utilities.
